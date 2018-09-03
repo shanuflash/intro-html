@@ -13,6 +13,12 @@ body {
     background-repeat: no-repeat;
 }
 
+#spidey {
+	position:fixed;
+	top:0;
+	left:0;
+}
+
 body:after {
     content: "Thanks to Unsplash (background image)";
     position: fixed;
